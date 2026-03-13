@@ -81,7 +81,7 @@ The frontend of the Task Manager application is designed as a web-based user int
 The user interface is developed using HTML, CSS, and Bootstrap, which provide a responsive and user-friendly design.
 #### Environment Details and Dependencies
 The Task Manager application is developed using Python Flask framework with MySQL database. The following environment and dependencies are required to run the project.
-Component	Version / Tool
+##### Component	Version / Tool
 Operating System	Windows 
 Programming Language	Python 3.10
 Backend Framework	Flask
