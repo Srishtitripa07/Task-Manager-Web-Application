@@ -1,0 +1,32 @@
+body{
+background:#f4f6f9;
+font-family:Arial;
+}
+
+.card{
+border-radius:10px;
+box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
+
+.table tbody tr:hover{
+background:#f1f3f5;
+transition:0.2s;
+}
+
+.btn{
+border-radius:6px;
+}
+
+body.dark{
+background:#121212;
+color:white;
+}
+
+body.dark .card{
+background:#1e1e1e;
+color:white;
+}
+
+body.dark table{
+color:hwb(0 2% 98%);
+}
